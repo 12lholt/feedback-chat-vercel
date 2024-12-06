@@ -44,11 +44,11 @@ export function ChatHeader({ selectedModelId }: { selectedModelId: string }) {
         asChild
       >
         <Link
-          href="https://www.espn.com/"
+          href="https://www.ksl.com/"
           target="_noblank"
         >
           {/* <VercelIcon size={16} /> */}
-          ESPN
+          KSL on Dev
         </Link>
       </Button>
     </header>
